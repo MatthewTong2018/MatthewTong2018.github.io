@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Post
 {% for post in site.posts %}
  
 <ul>
