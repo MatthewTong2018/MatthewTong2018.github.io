@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# My Essays
+# My English Essays
 
 These are the essays that I have written over the last few years, and i will keep uploading new ones that I have written.
 
-# Posts
+# Post
 {% for post in site.posts %}
  
 <ul>
